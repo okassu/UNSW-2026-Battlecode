@@ -1,0 +1,7 @@
+#!/bin/sh
+export MAPLIB=0
+export CARRIER_FOOD_FROM=150
+export CLAIM_ANY_FROM=200
+export BIG_UTURN_LEN=999
+export BORN_UTURN=1
+exec /Users/edwardkang/battlecode/snapshots/v11c/.unswbc-build/bot

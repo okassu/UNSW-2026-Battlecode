@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0 OPENING_ROUNDS=40 OPENING_BLEND=1 FARM_MIN=5
+export BEHIND_THREAT=300000
+exec /Users/edwardkang/battlecode/snapshots/v12k/.unswbc-build/bot

@@ -1,0 +1,10 @@
+#!/bin/sh
+export MAPLIB=0
+export AREA_PER_DRAGON=60
+export SPLIT_LEN=8
+export MIN_UNITS_TO_TRADE=99
+export CAUTIOUS_LEN=2
+export HUNTER_MOD=0
+export TRADE_MODE=0
+export SMALL_LEN=0
+exec /Users/edwardkang/battlecode/snapshots/v10/.unswbc-build/bot

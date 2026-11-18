@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export CONTEST_SPREAD=1
+exec /Users/edwardkang/battlecode/snapshots/v16g/.unswbc-build/bot

@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export SPLIT_ROOM=0
+exec /Users/edwardkang/battlecode/snapshots/v12d/.unswbc-build/bot

@@ -1,0 +1,1 @@
+{"size": "small", "sym": "x", "style": "maze", "motif": "portal_pockets", "starter": "short", "W": 24, "H": 16, "bg": [0, 0], "portals": 10, "dragons": 4, "lengths": [4, 5, 5, 3], "reach": 320}

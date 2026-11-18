@@ -1,0 +1,3 @@
+#!/bin/sh
+export DRAGON_DEBUG=1
+exec /Users/edwardkang/battlecode/snapshots/v6-portal-fix-2/.unswbc-build/bot

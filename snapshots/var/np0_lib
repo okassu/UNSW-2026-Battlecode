@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=1
+export NECK_PORTAL=0
+exec /Users/edwardkang/battlecode/snapshots/v16f/.unswbc-build/bot

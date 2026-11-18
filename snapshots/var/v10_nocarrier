@@ -1,0 +1,6 @@
+#!/bin/sh
+export MAPLIB=0
+export BORN_UTURN=1
+export BIG_UTURN_LEN=999
+export ESCORT_MOD=0
+exec /Users/edwardkang/battlecode/snapshots/v10a/.unswbc-build/bot

@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export FRIEND_YIELD=0
+exec /Users/edwardkang/battlecode/snapshots/v12e/.unswbc-build/bot

@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=1
+export HOME_MOD=3
+exec /Users/edwardkang/battlecode/snapshots/v15d/.unswbc-build/bot

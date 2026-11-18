@@ -1,0 +1,5 @@
+#!/bin/sh
+export SMALL_LEN=3
+export AHEAD_MARGIN=1
+export CONTEST_W=100
+exec /Users/edwardkang/battlecode/snapshots/v9c4/.unswbc-build/bot

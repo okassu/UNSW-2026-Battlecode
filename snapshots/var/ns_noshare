@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export SCOUT_LEN=0
+export PORTAL_SHARE=0
+exec /private/tmp/claude-501/-Users-edwardkang-battlecode/a3ac62dd-ecfb-4481-811a-2f955bbc702a/scratchpad/bot_learn

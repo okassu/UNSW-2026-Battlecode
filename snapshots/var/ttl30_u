@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export BEACON_TTL=30
+exec /Users/edwardkang/battlecode/snapshots/v13h/.unswbc-build/bot

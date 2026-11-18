@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export CLAIM_ANY_FROM=330
+export CARRIER_FOOD_FROM=0
+exec /Users/edwardkang/battlecode/snapshots/v12m/.unswbc-build/bot

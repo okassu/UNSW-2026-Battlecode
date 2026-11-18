@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export DRAGON_DEBUG=1
+exec /Users/edwardkang/battlecode/snapshots/v9a1/.unswbc-build/bot

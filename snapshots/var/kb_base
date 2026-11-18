@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export OPENING_ROUNDS=40 OPENING_BLEND=1
+export DANGER_TTL=0 OUTNUM_FLEE=0 FARM_MIN=3 RIM_LEN_LOW=0
+exec /Users/edwardkang/battlecode/snapshots/v12k/.unswbc-build/bot

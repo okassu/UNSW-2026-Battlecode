@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export TRADE_DOWN=2
+exec /Users/edwardkang/battlecode/snapshots/v12f/.unswbc-build/bot

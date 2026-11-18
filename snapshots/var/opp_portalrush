@@ -1,0 +1,7 @@
+#!/bin/sh
+export MAPLIB=0
+export PORTAL_RISK=0
+export PORTAL_COST=0
+export SCOUT_MOD=2
+export SCOUT_FRONTIER=9999
+exec /Users/edwardkang/battlecode/snapshots/v10/.unswbc-build/bot

@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export FARM_MIN=1
+exec /Users/edwardkang/battlecode/snapshots/v11c/.unswbc-build/bot

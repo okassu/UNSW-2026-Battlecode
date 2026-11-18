@@ -1,0 +1,6 @@
+- [Ladder game debugging](ladder-game-debugging.md) — our ladder games in prevBattles/prevN.txt, top teams' in topEloBattles/; our side varies, check indicators
+- [Generalise strategy](generalise-strategy.md) — judge every change on all opponents/maps in FINDINGS+BUGS+prevBattles, never one team or map
+- [Test harness state](test-harness-pending.md) — overnight gate v10 vs v11b in results/; v9 profile deferred until asked
+- [Top games findings](top-games-findings.md) — what top ladder teams do (opening rush, trade when ahead); tools/topgames.py, tools/zones.py
+- [Cutlery games](cutlery-games.md) — topEloBattles/game1-40 are rank-1 cutlery's games; side rule; its survival v ours
+- [v13 iteration](v13-iteration.md) — v12 to v15 (2026-09-29/30): what each version changed, ladder records, what was rejected

@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export CLAIM_ANY_FROM=120
+export GROW_FROM=150
+exec /Users/edwardkang/battlecode/snapshots/v16c/.unswbc-build/bot

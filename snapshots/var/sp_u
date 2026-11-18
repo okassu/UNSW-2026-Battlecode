@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export SPLIT_PARENT_SAFE=1
+exec /Users/edwardkang/battlecode/snapshots/v14a/.unswbc-build/bot

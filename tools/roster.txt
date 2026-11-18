@@ -1,0 +1,10 @@
+# Opponent styles for tools/gate.py: name = bot (a project dir or executable). All play MAPLIB=0 (unseen maps).
+# Params are in snapshots/var/<name> (made with tools/variant.sh).
+v8        snapshots/var/v8u            # v8, the last pre-sprint build
+v9        snapshots/var/v9u            # sworm v9 (server v21)
+agg       snapshots/var/agg            # aggressive swarm: v8 + even trades when locally ahead by 1 + small dragons food-first
+consol    snapshots/var/opp_consolidator  # early consolidator: carrier from ~r220, feeding from r250 (SSS/devtest style)
+turtle    snapshots/var/opp_turtle     # few big dragons (split at 8, ~1 dragon per 60 tiles), never trades, dodges all threats (B60 style)
+raider    snapshots/var/opp_raider     # values mirrored/reported enemy sources 2.5x, trades evenly at equal heads
+portal    snapshots/var/opp_portalrush # crosses any portal at no cost, half the small dragons scout unknown portals
+early     snapshots/var/opp_early      # early carrier: claims from r120, growers from r100, carrier fed from r100 (ladder teams: 15-28 cells at r200)

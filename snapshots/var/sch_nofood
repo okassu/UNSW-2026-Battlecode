@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0 OPENING_ROUNDS=40 OPENING_BLEND=1 FARM_MIN=5
+export CARRIER_FOOD_FROM=0
+exec /Users/edwardkang/battlecode/snapshots/v12k/.unswbc-build/bot

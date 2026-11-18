@@ -1,0 +1,4 @@
+#!/bin/sh
+export CARRIER_FROM=300
+export CONSOLIDATE_FROM=300
+exec /private/tmp/claude-501/-Users-edwardkang-battlecode/a3ac62dd-ecfb-4481-811a-2f955bbc702a/scratchpad/exec/bot_new

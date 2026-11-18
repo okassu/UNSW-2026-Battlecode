@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export OPENING_ROUNDS=0
+export CARRIER_FOOD_FROM=0
+exec /Users/edwardkang/battlecode/snapshots/v13d/.unswbc-build/bot

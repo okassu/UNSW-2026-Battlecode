@@ -1,0 +1,2 @@
+#!/bin/sh
+exec /Users/edwardkang/battlecode/snapshots/v11b/.unswbc-build/bot

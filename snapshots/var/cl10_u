@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export CLAIM_LATE_LEN=10
+exec /Users/edwardkang/battlecode/snapshots/v15a/.unswbc-build/bot

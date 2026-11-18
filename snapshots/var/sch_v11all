@@ -1,0 +1,8 @@
+#!/bin/sh
+export MAPLIB=0
+export BIG_THREAT_LEN=999
+export BIG_THREAT=300000
+export CLAIM_ANY_FROM=330
+export CARRIER_FOOD_FROM=0
+export BEHIND_THREAT=300000
+exec /Users/edwardkang/battlecode/snapshots/v12k/.unswbc-build/bot

@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export MOUTH_AVOID=400
+exec /Users/edwardkang/battlecode/snapshots/v16d/.unswbc-build/bot

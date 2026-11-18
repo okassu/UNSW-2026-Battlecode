@@ -1,0 +1,9 @@
+#!/bin/sh
+export MAPLIB=0
+export OPENING_ROUNDS=0
+export MERGE_FROM=400
+export SEE_CARRIER=1
+export FEED_SEEN=1
+export SPLIT_ROOM=0
+export CONTEST_WALK=0
+exec /Users/edwardkang/battlecode/snapshots/v13e/.unswbc-build/bot

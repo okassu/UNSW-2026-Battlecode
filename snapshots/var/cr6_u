@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export CARRIER_REACH=6
+exec /Users/edwardkang/battlecode/snapshots/v15b/.unswbc-build/bot

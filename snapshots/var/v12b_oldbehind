@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export BEHIND_THREAT=300000
+exec /Users/edwardkang/battlecode/snapshots/v12b/.unswbc-build/bot

@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export CARRIER_FOOD_RADIUS_END=6
+exec /Users/edwardkang/battlecode/snapshots/v13h/.unswbc-build/bot

@@ -1,0 +1,7 @@
+#!/bin/sh
+export MAPLIB=0
+export OPENING_BLEND=2
+export MERGE_FROM=400
+export SEE_CARRIER=1
+export FEED_SEEN=1
+exec /Users/edwardkang/battlecode/snapshots/v13e/.unswbc-build/bot

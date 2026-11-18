@@ -1,0 +1,10 @@
+# Too big for GitHub
+results/
+prevBattles/
+topEloBattles/
+
+# Build outputs
+.unswbc-build/
+__pycache__/
+*.pyc
+.DS_Store

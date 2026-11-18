@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export OPENING_ROUNDS=0
+export CLAIM_ANY_FROM=330
+exec /Users/edwardkang/battlecode/snapshots/v13d/.unswbc-build/bot

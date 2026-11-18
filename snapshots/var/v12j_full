@@ -1,0 +1,5 @@
+#!/bin/sh
+export OPENING_ROUNDS=40
+export OPENING_BLEND=1
+export FARM_MIN=5
+exec /Users/edwardkang/battlecode/snapshots/v12j/.unswbc-build/bot

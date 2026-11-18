@@ -1,0 +1,4 @@
+#!/bin/sh
+export STRICT_BONUS=300
+export THREAT_BIGGER=2
+exec /private/tmp/claude-501/-Users-edwardkang-battlecode/a3ac62dd-ecfb-4481-811a-2f955bbc702a/scratchpad/exec/bot_mid

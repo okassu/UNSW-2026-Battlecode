@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=1
+export KING_KEEP_LEN=7
+exec /Users/edwardkang/battlecode/snapshots/v16c/.unswbc-build/bot

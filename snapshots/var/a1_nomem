@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0
+export SEEN_TTL=0
+exec /Users/edwardkang/battlecode/snapshots/v9a1/.unswbc-build/bot

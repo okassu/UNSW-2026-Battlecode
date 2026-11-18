@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export DISPOSE_STRICT=1000000
+export DISPOSE_CROWD=3
+exec /Users/edwardkang/battlecode/snapshots/v13g/.unswbc-build/bot

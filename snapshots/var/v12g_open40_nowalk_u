@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export OPENING_ROUNDS=40
+export CONTEST_WALK=0
+exec /Users/edwardkang/battlecode/snapshots/v12g/.unswbc-build/bot

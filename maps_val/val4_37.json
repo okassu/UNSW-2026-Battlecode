@@ -1,0 +1,1 @@
+{"size": "medium", "sym": "xy", "style": "maze", "motif": "portal_field", "starter": "short", "W": 40, "H": 25, "bg": [1, 300], "portals": 4, "dragons": 3, "lengths": [3, 3, 5], "reach": 1000}

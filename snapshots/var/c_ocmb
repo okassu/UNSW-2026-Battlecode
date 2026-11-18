@@ -1,0 +1,10 @@
+#!/bin/sh
+export MAPLIB=0
+export OPENING_ROUNDS=0
+export CLAIM_ANY_FROM=330
+export CARRIER_FOOD_FROM=0
+export MERGE_FROM=400
+export SEE_CARRIER=1
+export FEED_SEEN=1
+export BEACON_ALL_FROM=380
+exec /Users/edwardkang/battlecode/snapshots/v13e/.unswbc-build/bot

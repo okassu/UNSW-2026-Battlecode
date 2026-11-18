@@ -1,0 +1,3 @@
+#!/bin/sh
+export FARM_MIN=5
+exec /Users/edwardkang/battlecode/snapshots/v12k/.unswbc-build/bot

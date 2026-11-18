@@ -1,0 +1,4 @@
+#!/bin/sh
+export MAPLIB=0 OPENING_ROUNDS=40 OPENING_BLEND=1 FARM_MIN=5
+export CLAIM_ANY_FROM=330
+exec /Users/edwardkang/battlecode/snapshots/v12k/.unswbc-build/bot

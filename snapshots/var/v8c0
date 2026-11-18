@@ -1,0 +1,6 @@
+#!/bin/sh
+export REGION_W=5
+export REGION_PEARLS=1
+export STALL_WIN=8
+export FARM_ENTRY=1
+exec /private/tmp/claude-501/-Users-edwardkang-battlecode/a3ac62dd-ecfb-4481-811a-2f955bbc702a/scratchpad/exec/bot_v8e

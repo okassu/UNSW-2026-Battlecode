@@ -1,0 +1,5 @@
+#!/bin/sh
+export MAPLIB=0
+export OPENING_ROUNDS=0
+export MERGE_FROM=380
+exec /Users/edwardkang/battlecode/snapshots/v13a/.unswbc-build/bot

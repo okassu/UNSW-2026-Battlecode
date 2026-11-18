@@ -1,0 +1,6 @@
+#!/bin/sh
+export MAPLIB=0
+export RATE_DISC=250
+export AHEAD_MARGIN=0
+export SMALL_LEN=4
+exec /Users/edwardkang/battlecode/snapshots/v10/.unswbc-build/bot
